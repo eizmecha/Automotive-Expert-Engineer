@@ -43,7 +43,7 @@ The system covers **11 major automotive domains** and **82 diagnostic scenarios*
 }
 ```
 
-Inference Mechanism
+## Inference Mechanism
 
 · Forward Chaining: Triggers diagnosis from presented symptoms
 · Backward Chaining: Validates hypotheses based on answers
@@ -52,7 +52,7 @@ Inference Mechanism
 
 ---
 
-🚗 Diagnostic Coverage
+## 🚗 Diagnostic Coverage
 
 System Domains
 
@@ -68,7 +68,7 @@ System Domains
 10. Safety Systems – Airbags, seatbelts
 11. Fuel System – Injector faults, filter clogs
 
-Risk Management Matrix
+## Risk Management Matrix
 
 Risk Level Response Time Example Issues
 Emergency Immediate Engine overheating, brake failure
@@ -78,7 +78,7 @@ Low Scheduled Cabin filter, lighting issues
 
 ---
 
-✨ Innovation Highlights
+## ✨ Innovation Highlights
 
 Multilingual Intelligence
 
@@ -96,7 +96,7 @@ else:
     next_questions = current_data["dependencies"]["if_no"]
 ```
 
-User Experience Design
+ User Experience Design
 
 · Progress Tracking: Visual indicators of diagnostic completion
 · Session Management: Save/resume functionality
@@ -105,7 +105,7 @@ User Experience Design
 
 ---
 
-⚙️ Technical Specifications
+## ⚙️ Technical Specifications
 
 System Requirements
 
@@ -122,7 +122,7 @@ Performance Metrics
 
 ---
 
-📈 Impact & Benefits
+## 📈 Impact & Benefits
 
 For Vehicle Owners
 
@@ -139,7 +139,7 @@ For Automotive Professionals
 
 ---
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 Upcoming Features
 
@@ -158,7 +158,7 @@ Technical Roadmap
 
 ---
 
-🏆 Engineering Excellence
+## 🏆 Engineering Excellence
 
 This system exemplifies best-in-class software practices:
 
@@ -170,7 +170,7 @@ This system exemplifies best-in-class software practices:
 
 ---
 
-🎯 Conclusion
+## 🎯 Conclusion
 
 The Automotive Expert Engineer redefines vehicle diagnostics by fusing expert mechanical logic with advanced AI-driven software. It empowers users with:
 
